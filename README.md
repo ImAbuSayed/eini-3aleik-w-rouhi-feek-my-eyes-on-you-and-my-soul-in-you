@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيني عليك وروحي فيك
+> قلبي ينادي من لياليك
+> بين النجوم أدور عليك
+> حبك قدر مالي شريك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
