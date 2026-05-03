@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Eini 3aleik W Rouhi Feek – My Eyes on You and My Soul in You |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 26, 2026 |
+| Lyric Writing Date | April 25, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/eini-3aleik-w-rouhi-feek-my-eyes-on-you-and-my-soul-in-you/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
