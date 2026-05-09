@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Eini 3aleik W Rouhi Feek – My Eyes on You and My Soul in You
+
+This log tracks the cryptographic history and versioning for the song **Eini 3aleik W Rouhi Feek – My Eyes on You and My Soul in You** (eini-3aleik-w-rouhi-feek-my-eyes-on-you-and-my-soul-in-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T09:05:00.919628 | `v1` | `006af2fa0621dae64d9e890bd72fbfc52cfd7c81d2e0696656ef50843206cd8a` | `712a34ae20c9d08d82c013864393adfdec3b4920bdf897f78c23aed3517322b5` | `2026-05-09_eini-3aleik-w-rouhi-feek-my-eyes-on-you-and-my-soul-in-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
